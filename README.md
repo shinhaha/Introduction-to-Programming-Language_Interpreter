@@ -1,4 +1,4 @@
-* Project TEST Case *
+* Project TEST Case
 1. (define a 1)
 a ;; 1출력
 2. (define b `(1 2 3))
