@@ -1,4 +1,9 @@
-* Project TEST Case
+# Cute_Interpreter
+```
+Racket과 유사하게 구현한 Interpreter입니다.
+exe 파일을 실행한 뒤 아래의 Test Case를 입력합니다.
+```
+# Project TEST Case
 ```
 1. (define a 1)
 a ;; 1출력
