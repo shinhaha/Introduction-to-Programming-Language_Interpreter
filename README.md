@@ -7,14 +7,14 @@ exe 파일을 실행한 뒤 아래의 Test Case를 입력합니다.
 ```
 1. (define a 1)
 a ;; 1출력
-2. (define b `(1 2 3))
-b ;; `(1 2 3)
+2. (define b '(1 2 3))
+b ;; '(1 2 3)
 3. (define c (- 5 2))
 c;; 3
-4. (define d `(+ 2 3))
-d;;`(+ 2 3)
+4. (define d '(+ 2 3))
+d;;'(+ 2 3)
 5. (define test b)
-test;; `(1 2 3)
+test;; '(1 2 3)
 6. (+ a 3) ;; 4
 7. (define a 2) ;; 앞에 a가 정의된 후에 새로 정의
 (* a 4) ;; 8
